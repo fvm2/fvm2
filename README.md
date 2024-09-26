@@ -28,11 +28,8 @@
 <h4>Visualization</h4>
 <p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> </p>
 <h4>Software Engineering</h4>
-<ul>
-  <item>Software Architecture</item>
-  <item>Design Patterns</item>
-  <item>Software Development Life Cycle (SDLC)</item>
-  <item>Data Structures and Algorithms</item>
-</ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fvm2&show_icons=true&locale=en&layout=compact" alt="fvm2" /></p>
+- Software Architecture
+- Design Patterns
+- Software Development Life Cycle (SDLC)
+- Data Structures and Algorithms
